@@ -1,0 +1,13 @@
+setup.py
+src/__init__.py
+src/analytics.py
+src/clipper.py
+src/dashboard.py
+src/recommender.py
+src/yt_auth.py
+src/yt_fetch.py
+watchtime_booster.egg-info/PKG-INFO
+watchtime_booster.egg-info/SOURCES.txt
+watchtime_booster.egg-info/dependency_links.txt
+watchtime_booster.egg-info/requires.txt
+watchtime_booster.egg-info/top_level.txt

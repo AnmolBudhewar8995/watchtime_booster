@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: watchtime-booster
+Version: 0.1.0
+Summary: YouTube Watch Time Booster Dashboard
+Requires-Python: >=3.8
+Requires-Dist: streamlit
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: google-api-python-client
+Requires-Dist: google-auth-oauthlib
+Requires-Dist: google-auth-httplib2
+Requires-Dist: sentence-transformers
+Requires-Dist: scikit-learn
+Requires-Dist: isodate
+Requires-Dist: moviepy
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
